@@ -1,0 +1,34 @@
+	<?php
+	//database connection
+			$conn=mysqli_connect("localhost", "root","","people");
+			if($conn)
+				{
+					echo "connection established....";
+					$query="select * from register";
+					$data=mysqli_query($conn,$query);
+					if(mysqli_num_rows($data)>0)
+					{
+						echo "<br>******RECORDS OF CUSTOMERS******<br>";
+						while($row=mysqli_fetch_assoc($data))
+						{
+							"<br>";
+							echo "Username: {$row['id']}<br>";
+							echo "Firstname: {$row['firstname']}<br>";
+							echo "Lastname: {$row['lastname']}<br>";
+							echo "Gender: {$row['gender']}<br>";
+							echo "Email: {$row['email']}<br>";
+							echo "Number: {$row['number']}<br>";
+							echo "Service: {$row['Service']}<br><br><br>";
+						}
+					}
+					else
+					{
+						echo "Zero Results Found...";
+					}
+				}	
+			else
+				{
+					echo "Connection Error".mysqli_connect_error();
+				}
+			mysqli_close($conn);
+	?>
