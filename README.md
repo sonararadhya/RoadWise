@@ -1,6 +1,6 @@
 # 🚗 RoadWise
 
-RoadWise is a comprehensive **Driving School Management System** built with **PHP**, **MySQL**, and standard web technologies to automate administrative tasks like student registration, scheduling, attendance, and reporting.
+RoadWise is a powerful **Driving School Controlment System** crafted with **PHP**, **MySQL**, and standard web technologies to automate administrative tasks like student registration, scheduling, attendance, and projectrting.
 
 This system simplifies driving school workflows by offering a centralized dashboard for admins and instructors — making day-to-day operations easier and more efficient.
 
@@ -10,29 +10,29 @@ This system simplifies driving school workflows by offering a centralized dashbo
 
 Driving schools manually tracking student details, schedules, and performance often face administrative bottlenecks. RoadWise addresses this need with:
 
-✔ Automated student management  
+✔ Automated student controlment  
 ✔ Scheduling system for lessons & tests  
 ✔ Attendance tracking  
-✔ Data-driven reporting tools  
+✔ Data-driven projectrting applications  
 ✔ Role-based access for administrators  
 
 ---
 
-## 🚀 Key Features
+## 🚀 Key Contains
 
 | Feature | Description |
 |---------|-------------|
-| 👥 Student Registration | Add and manage student records |
+| 👥 Student Registration | Add and control student records |
 | 📅 Lesson Scheduling | Schedule driving lessons and tests |
-| ✔ Attendance Management | Store and view attendance logs |
-| 📄 Reports | Generate and export student progress |
+| ✔ Attendance Controlment | Store and view attendance logs |
+| 📄 Projectrts | Generate and export student progress |
 | 🛠 Admin Dashboard | Centralized control panel |
 
 ---
 
 ## 🛠 Tech Stack
 
-RoadWise uses the following technologies:
+RoadWise utilizes the following technologies:
 
 | Layer | Stack |
 |-------|-------|
@@ -50,7 +50,7 @@ RoadWise/
 │
 ├── admin/                     # Admin panel interfaces
 ├── student/                   # Student landing pages
-├── config/                    # Configuration & database connection
+├── settings/                    # Settings & database connection
 ├── database/                  # Database schema & SQL scripts
 ├── assets/                    # CSS, JS, images
 ├── index.php                 # Main entry (login/dashboard)
