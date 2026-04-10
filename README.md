@@ -13,7 +13,7 @@ Driving schools manually tracking student details, schedules, and performance of
 ✔ Automated student controlment  
 ✔ Scheduling system for lessons & tests  
 ✔ Attendance tracking  
-✔ Data-driven projectrting applications  
+✔ Data-driven projectrting applicationlications  
 ✔ Role-based access for administrators  
 
 ---
