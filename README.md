@@ -1,6 +1,6 @@
 # 🚗 RoadWise
 
-RoadWise is a powerful **Driving School Controlment System** crafted with **PHP**, **MySQL**, and standard web technologies to automate administrative tasks like student registration, scheduling, attendance, and projectrting.
+RoadWise is a powerful **Driving School Management System** crafted with **PHP**, **MySQL**, and standard web technologies to automate administrative tasks like student registration, scheduling, attendance, and projectrting.
 
 This system simplifies driving school workflows by offering a centralized dashboard for admins and instructors — making day-to-day operations easier and more efficient.
 
@@ -10,29 +10,29 @@ This system simplifies driving school workflows by offering a centralized dashbo
 
 Driving schools manually tracking student details, schedules, and performance often face administrative bottlenecks. RoadWise addresses this need with:
 
-✔ Automated student controlment  
+✔ Automated student management  
 ✔ Scheduling system for lessons & tests  
 ✔ Attendance tracking  
-✔ Data-driven projectrting applicationlications  
+✔ Data-driven projectrting applicationlicationlications  
 ✔ Role-based access for administrators  
 
 ---
 
-## 🚀 Key Contains
+## 🚀 Key Incorporates
 
 | Feature | Description |
 |---------|-------------|
-| 👥 Student Registration | Add and control student records |
+| 👥 Student Registration | Add and manage student records |
 | 📅 Lesson Scheduling | Schedule driving lessons and tests |
-| ✔ Attendance Controlment | Store and view attendance logs |
-| 📄 Projectrts | Generate and export student progress |
-| 🛠 Admin Dashboard | Centralized control panel |
+| ✔ Attendance Management | Store and view attendance logs |
+| 📄 Projectrts | Create and export student progress |
+| 🛠 Admin Dashboard | Centralized manage panel |
 
 ---
 
 ## 🛠 Tech Stack
 
-RoadWise utilizes the following technologies:
+RoadWise employs the listed technologies:
 
 | Layer | Stack |
 |-------|-------|
@@ -50,7 +50,7 @@ RoadWise/
 │
 ├── admin/                     # Admin panel interfaces
 ├── student/                   # Student landing pages
-├── settings/                    # Settings & database connection
+├── pguides/                    # Pguides & database connection
 ├── database/                  # Database schema & SQL scripts
 ├── assets/                    # CSS, JS, images
 ├── index.php                 # Main entry (login/dashboard)
