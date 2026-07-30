@@ -1,38 +1,38 @@
 # 🚗 RoadWise
 
-RoadWise is a powerful **Driving School Management System** crafted with **PHP**, **MySQL**, and standard web technologies to automate administrative tasks like student registration, scheduling, attendance, and projectrting.
+RoadWise is a robust **Driving School Management System** developed using **PHP**, **MySQL**, and standard web technologies to streamline administrative tasks such as student registration, scheduling, attendance tracking, and reporting.
 
-This system simplifies driving school workflows by offering a centralized dashboard for admins and instructors — making day-to-day operations easier and more efficient.
+This system enhances the operational efficiency of driving schools by providing a centralized dashboard for administrators and instructors, thereby simplifying daily operations.
 
 ---
 
 ## 🧠 Project Overview
 
-Driving schools manually tracking student details, schedules, and performance often face administrative bottlenecks. RoadWise addresses this need with:
+Driving schools that manually track student information, schedules, and performance often encounter administrative challenges. RoadWise effectively addresses these issues with the following features:
 
 ✔ Automated student management  
-✔ Scheduling system for lessons & tests  
-✔ Attendance tracking  
-✔ Data-driven projectrting applicationlicationlicationlications  
-✔ Role-based access for administrators  
+✔ Comprehensive scheduling system for lessons and tests  
+✔ Attendance tracking capabilities  
+✔ Data-driven reporting application  
+✔ Role-based access control for administrators  
 
 ---
 
-## 🚀 Key Incorporates
+## 🚀 Key Features
 
 | Feature | Description |
 |---------|-------------|
 | 👥 Student Registration | Add and manage student records |
 | 📅 Lesson Scheduling | Schedule driving lessons and tests |
 | ✔ Attendance Management | Store and view attendance logs |
-| 📄 Projectrts | Create and export student progress |
-| 🛠 Admin Dashboard | Centralized manage panel |
+| 📄 Reports | Create and export student progress reports |
+| 🛠 Admin Dashboard | Centralized management panel |
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Technology Stack
 
-RoadWise employs the listed technologies:
+RoadWise utilizes the following technologies:
 
 | Layer | Stack |
 |-------|-------|
@@ -50,16 +50,20 @@ RoadWise/
 │
 ├── admin/                     # Admin panel interfaces
 ├── student/                   # Student landing pages
-├── pguides/                    # Pguides & database connection
+├── pguides/                   # Guides & database connection
 ├── database/                  # Database schema & SQL scripts
 ├── assets/                    # CSS, JS, images
-├── index.php                 # Main entry (login/dashboard)
+├── index.php                  # Main entry point (login/dashboard)
 ├── .gitignore
 └── README.md
-
-
-Aradhya Sonar
-Author
+```
 
 ---
+
+## Author
+
+Aradhya Sonar
+
+---
+
 *📝 Last maintained: July 30, 2026 at 17:49 UTC*
